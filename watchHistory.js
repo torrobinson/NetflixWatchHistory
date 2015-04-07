@@ -1,5 +1,4 @@
 var watchHistory = {
-    jqueryLoaded: false,
     csv: "Date,Title,Season,Episode",
 
     createScript: function(url, callback) {
